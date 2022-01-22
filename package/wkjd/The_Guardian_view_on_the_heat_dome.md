@@ -2,23 +2,23 @@
 
 Politicians must respond to the latest warnings that climate science has underestimated risks
 
-##  heat dome  热穹
+##  <yanse>heat dome  热穹
 
 > 连续数日居高不下的高温归因于“热穹”现象。空中热高气压区域停滞不懂，并像泵一样不断的排斥冷空气，吸收热空气，使得气温不断升高。
 
-## underestimate v.低估
+## <yanse>underestimate v.低估
 
 
 
 **[1]** Last week's shockingly high temperatures in the northwestern US and Canada <u>were- and are</u> - very frightening. 
 
-## shockingly  adv.骇人地
+## <yanse>shockingly  adv.骇人地
 
 
 
 **[2]** Heat and the fires it caused killed hundreds of people, and are estimated to have killed a billion sea creatures.
 
-## sea creature  海洋生物
+## <yanse>sea creature  海洋生物
 
 > = marine animal
 
@@ -26,25 +26,25 @@ Politicians must respond to the latest warnings that climate science has underes
 
 **[3]** Daily temperature records were smashed by more than 5C (9F) in some places. In Lytton, British Columbia, the heat reached 49.6C (121F). 
 
-## smash  v. 打破
+## <yanse>smash  v. 打破
 
 > smash a record  打破记录
 
-## Celsius  英: ['selsiəs] n./adj. 摄氏度
+## <yanse>Celsius  英: ['selsiəs] n./adj. 摄氏度
 
-## Fahrenheit 英: [ˈfærənhaɪt] n./adj. 华氏度
+## <yanse>Fahrenheit 英: [ˈfærənhaɪt] n./adj. 华氏度
 
 
 
 **[4]** The wildfires that consumed the town produced their own thunderstorms, alongside thousands of lightning strikes.
 
-## wildfires  n.野火
+## <yanse>wildfires  n.野火
 
-## consume  v.彻底烧毁，消耗
+## <yanse>consume  v.彻底烧毁，消耗
 
-## thunderstorm  n.雷暴
+## <yanse>thunderstorm  n.雷暴
 
-## lightning strike  n.雷击
+## <yanse>lightning strike  n.雷击
 
 *北美遭遇高温灾害：人员动物伤亡惨重，高温屡创记录，极端天气频繁。*
 
@@ -52,11 +52,11 @@ Politicians must respond to the latest warnings that climate science has underes
 
 **[5]** <font style="color:red">An initial study shows </font> <font style="color:green">human activity made this heat dome</font> - <font style="color: blue">in which a ridge of high pressure acts as a lid</font> <font style="color: purple">preventing warm air from escaping</font> - <font style="color:green">at least 150 times more likely</font>.
 
-## initial adj. 最初的
+## <yanse>initial adj. 最初的
 
-## ridge of high pressure  高压脊
+## <yanse>ridge of high pressure  高压脊
 
-## lid n.盖子
+## <yanse>lid n.盖子
 
 > <font color=red>红色部分是主句</font>
 >
@@ -70,11 +70,11 @@ Politicians must respond to the latest warnings that climate science has underes
 
 **[6]** <font color=red>The World Weather Attribution Group of scientists</font>, <font color=blue>who use computer climate models to assess global heating trends and extreme weather</font>, <font color=red>have warned that</font> <font color=green>last week exceeded even their worst-case scenarios</font>.
 
-## World Weather Attribution 世界天气归因组织
+## <yanse>World Weather Attribution 世界天气归因组织
 
-## worst-case scenario 最坏情况
+## <yanse>worst-case scenario 最坏情况
 
-## exceed v.超过，超越
+## <yanse>exceed v.超过，超越
 
 > <font color=red>红色部分为主干</font>
 >
@@ -86,17 +86,17 @@ Politicians must respond to the latest warnings that climate science has underes
 
 **[7]** <font color=purple>While it has long been recognized that</font> <font color=red>the climate system has thresholds or tipping points beyond which humans stand to lose control of what happens</font>, <font color=green>scientists did not hide their alarm that</font> <font color=blue>a usually cool part of the Pacific northwest had been turned into a furnace</font>.
 
-## threshold  英: [ˈθreʃˌhəʊld]n.门槛，阈值
+## <yanse>threshold  英: [ˈθreʃˌhəʊld]n.门槛，阈值
 
-## tipping point  临界点
+## <yanse>tipping point  临界点
 
-## stand to do sth. 很可能会做某事
+## <yanse>stand to do sth. 很可能会做某事
 
-## alarm  n.惊恐
+## <yanse>alarm  n.惊恐
 
 > e.g., Scientists have said there is no cause for alarm
 
-## furnace  英: [ˈfɜː(r)nɪs] n.熔炉
+## <yanse>furnace  英: [ˈfɜː(r)nɪs] n.熔炉
 
 > <font color=purple>紫色部分为让步状语从句</font>
 >
@@ -110,15 +110,15 @@ Politicians must respond to the latest warnings that climate science has underes
 
 **[8]** One climatologist said the prospect opened up by the heat dome "blows my mind".
 
-## climatologist n.气候学家
+## <yanse>climatologist n.气候学家
 
-## climatology  n.气候学
+## <yanse>climatology  n.气候学
 
-## prospect n.前景，设想
+## <yanse>prospect n.前景，设想
 
-## open sth. up 使成为可能
+## <yanse>open sth. up 使成为可能
 
-## blow one's mind  令某人的兴奋、吃惊
+## <yanse>blow one's mind  令某人的兴奋、吃惊
 
 
 
@@ -128,11 +128,11 @@ Politicians must respond to the latest warnings that climate science has underes
 
 **[9]** The disturbing signs of climate disruption are not limited to north America. Pakistan and Siberia have also had record-breaking high temperatures within the last few weeks, as have Moscow, Helsinki and Estonia.
 
-##  disturbing adj.令人不安的
+##  <yanse>disturbing adj.令人不安的
 
-##  disruption n.混乱
+##  <yanse>disruption n.混乱
 
-##  recording-breaking adj.破纪录的
+##  <yanse>recording-breaking adj.破纪录的
 
 > = recording-smashing
 
@@ -140,35 +140,35 @@ Politicians must respond to the latest warnings that climate science has underes
 
 **[10]** In Madagascar, the worst drought in 40 years has left a million people facing food shortages. The climate author David Wallace-Wells suggested that current conditions  should be regarded as heralding a "permanent emergency".
 
-##  drought  英: [draʊt] n.干旱
+##  <yanse>drought  英: [draʊt] n.干旱
 
-##  food shortage 粮食短缺
+##  <yanse>food shortage 粮食短缺
 
-##  herald 英: ['herəld]  v.预示
+##  <yanse>herald 英: ['herəld]  v.预示
 
 > e.g., These talks could herald a new era of peace  这些谈判可能预示着新的和平时代的来临
 
-##  era 英: [ˈɪərə]  n.新时代；纪元
+##  <yanse>era 英: [ˈɪərə]  n.新时代；纪元
 
 
 
 **[11]** With policymakers struggling to absorb the very serious implications for human societies of current models, it is frankly difficult to take in the suggestion that these models may underestimate the threat.
 
-##  implication n.可能的影响
+##  <yanse>implication n.可能的影响
 
 
 
 **[12]** The prospect of <font color=red>the jet stream <u>becoming</u> locked</font>, and <font color=blue>weather systems such as tropical storms <u>ceasing</u> to move in the way **to which** we are accustomed</font>, carries nightmarish possibilities. More hot weather is on its way to California, with the bulk of the wildfire season ahead
 
-##  jet stream n. （地球高空）高速气流
+##  <yanse>jet stream n. （地球高空）高速气流
 
-##  tropical storm 热带风暴
+##  <yanse>tropical storm 热带风暴
 
-##  cease to do sth. 停止做某事
+##  <yanse>cease to do sth. 停止做某事
 
-##  be accustomed to sth. 习惯某事
+##  <yanse>be accustomed to sth. 习惯某事
 
-##  nightmarish 英: [ˈnaɪtˌmeərɪʃ] adj. 噩梦般的
+##  <yanse>nightmarish 英: [ˈnaɪtˌmeərɪʃ] adj. 噩梦般的
 
 > nightmare n.噩梦；梦魇
 
@@ -176,7 +176,7 @@ Politicians must respond to the latest warnings that climate science has underes
 >
 > <font color=green>The prospect of</font>  <font color=red>A</font> <font color=green>and</font> <font color=blue>B</font> <font color=green>carries nightmarish possibilities</font>
 
-##   the bulk of  主体，大部分
+##   <yanse>the bulk of  主体，大部分
 
 *气候混乱席卷全球，人类可能低估了气候威胁的严重性，现在使用的气候的模型也不适用，如果趋势持续下去，将带来可怕的后果*
 
@@ -186,21 +186,21 @@ Politicians must respond to the latest warnings that climate science has underes
 
 **[13]** If there is  anything positive to be taken from this new information, and reports of the suffering and destruction caused by the heat, it can only be that it intensifies the pressure on policymakers to act.
 
-##  intensify v.加剧，加强
+##  <yanse>intensify v.加剧，加强
 
 
 
 **[14]** On Wednesday, the Switzerland-based Financial Stability Board issued a warning in advance of a G20 meeting in Venice this weekend. It urged finance ministers and central banks to take more notice of "far-reaching" climate impacts.
 
-##  Financial Stability Board 金融稳定理事会
+##  <yanse>Financial Stability Board 金融稳定理事会
 
-##  finance minister 财政部长
+##  <yanse>finance minister 财政部长
 
-##  take notice of 注意
+##  <yanse>take notice of 注意
 
 > = pay attention to sth.
 
-##  far-reaching adj.影响深远的 （延申很远）
+##  <yanse>far-reaching adj.影响深远的 （延申很远）
 
 
 
@@ -208,21 +208,21 @@ Politicians must respond to the latest warnings that climate science has underes
 
 **[16]** So far, <u>binding commitments</u> 【to make the cuts in carbon emissions that are needed to avoid temperature rises above 2℃ 】<u>are notable by their absence</u>.
 
-##  binding adj. 具有约束力的
+##  <yanse>binding adj. 具有约束力的
 
 > binding commitments 具有约束力的承诺
 
-##  emission n. 排放
+##  <yanse>emission n. 排放
 
-##  carbon emissions 碳排放
+##  <yanse>carbon emissions 碳排放
 
-##  notable adj.值得注意的
+##  <yanse>notable adj.值得注意的
 
 
 
 **[17]** With every worrying piece of climate news, the stakes ahead of November's Cop26 conference keep growing.
 
-##  stake n.风险
+##  <yanse>stake n.风险
 
 > high stake 高风险
 
@@ -236,19 +236,19 @@ Cop26 第26届联合国气候变化大会
 
 **[18]** Environmentalists used to shake their heads when highly unusual weather was reported in terms that ignored climate change's contribution.
 
-##  environmentalist n.环保主义者
+##  <yanse>environmentalist n.环保主义者
 
-##  terms n.措施、说法
+##  <yanse>terms n.措施、说法
 
 
 
 **[19]** Now, thanks to attribution science, the link is firmly made. To avoid future heat domes, countries including the US and Canada must stop pumping so much energy into the climate system.
 
-##  attribution n.归因
+##  <yanse>attribution n.归因
 
 > 归因科学
 
-##  pump v.（用泵）输送
+##  <yanse>pump v.（用泵）输送
 
 *得益于归因科学，极端天气和气候变化之间的联系加强，各国应积极减排*
 
