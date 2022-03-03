@@ -1,16 +1,4 @@
----
-title: 首页
----
+# Docs Library
 
-## *外刊逐句精读*
-
-主要资源来源于哔哩哔哩up主：
-
-1、三言两语杂货社
-
-2、。。。。
-
-
-
-主要内容包括：《经济学人》、《卫报》、《金融时报》、《新科学家》等
+Vue-driven documents generator based on vuepress-theme-hope.
 
